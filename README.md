@@ -156,7 +156,7 @@
 - [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)
 - [QQ同步助手](https://pim.qq.com/)
 - ~~[【Magisk Module】太极](https://t.me/taichi233)~~
-- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions?query=workflow%3ACore+branch%3Amaster)、[【Magisk Module】LSPosed Manager](https://github.com/LSPosed/LSPosed/actions?query=workflow%3AManager+branch%3Amaster)
+- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)、[【Magisk Module】LSPosed Manager](https://github.com/LSPosed/LSPosed/actions/workflows/manager.yml?query=branch%3Amaster)
 - [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 - [APKUpdater](https://github.com/rumboalla/apkupdater/releases)
