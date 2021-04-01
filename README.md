@@ -225,15 +225,11 @@
 ## 出行
 
 - [高德地图](https://mobile.amap.com/)
-
+- [百度地图](https://map.baidu.com/zt/client/index/)
 - [滴滴出行](https://www.didiglobal.com/download)
-
 - [浙江预约挂号](https://app.mi.com/details?id=com.zjrc.yygh)
-
 - [交管12123](https://122.gov.cn/)
-
 - [自如](http://hz.ziroom.com/)
-
 - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 
 ## 网盘
@@ -267,7 +263,3 @@
 ## no group
 
 - [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)
-
-
-
-
