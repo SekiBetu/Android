@@ -155,8 +155,7 @@
 - [搜狗输入法](https://pinyin.cn/)
 - [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)
 - [QQ同步助手](https://pim.qq.com/)
-- ~~[【Magisk Module】太极](https://t.me/taichi233)~~
-- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)、[【Magisk Module】LSPosed Manager](https://github.com/LSPosed/LSPosed/actions/workflows/manager.yml?query=branch%3Amaster)
+- [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
 - [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 - [APKUpdater](https://github.com/rumboalla/apkupdater/releases)
@@ -165,7 +164,7 @@
 - [一个木函](https://www.coolapk.com/apk/com.One.WoodenLetter)
 - [Vanced Manager](https://github.com/YTVanced/VancedManager/releases)
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
-- [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)、~~[【LSPosed Module】应用变量](https://www.coolapk.com/apk/com.sollyu.xposed.hook.model)~~、~~[【LSPosed Module】Thanox](https://github.com/Tornaco/Thanox/releases)~~、~~[【LSPosed Module】XPrivacyLua](https://github.com/M66B/XPrivacyLua/releases)~~
+- [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)
 - ~~[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)~~、[【LSPosed Module】秋风](https://xqe.lanzous.com/b00z6haji)
 - [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)、~~[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)~~
 - [Xposed Checker](https://www.coolapk.com/apk/190247)
@@ -173,7 +172,6 @@
 - [AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)
 - [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
 - [SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)
-- ~~[F12 - Chrome Devtools](https://www.coolapk.com/apk/io.alcatraz.f12)~~
 
 ## Proxy
 
