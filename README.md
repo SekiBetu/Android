@@ -117,24 +117,19 @@
 ## SNS
 
 - [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
-
 - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
-
 - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
-
 - [TwitCasting Viewer](https://play.google.com/store/apps/details?id=com.sidefeed.TCViewer)
-
 - [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
-
 - [pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
-
 - [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
-
 - [Discord](https://play.google.com/store/apps/details?id=com.discord)
-
 - [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
-
 - [抖音](https://www.douyin.com/)
+- [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
+- [Capcut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas)
+- ~~[Nekogram](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram)~~
+- ~~[Threema](https://play.google.com/store/apps/details?id=ch.threema.app)~~
 
 ## no group
 
