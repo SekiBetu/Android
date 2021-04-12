@@ -12,7 +12,7 @@
 
 - [APKMirror](https://www.apkmirror.com/)
 
-- [APKPure](https://apkpure.com/)
+- [F-Droid](https://www.f-droid.org/zh_Hans/packages/)
 
 ## 谷歌框架
 
