@@ -118,7 +118,7 @@
 
 - [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
-- [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+- [Telegram](https://telegram.org/android)
 - [TwitCasting Viewer](https://play.google.com/store/apps/details?id=com.sidefeed.TCViewer)
 - [LINE](https://play.google.com/store/apps/details?id=jp.naver.line.android)
 - [pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
