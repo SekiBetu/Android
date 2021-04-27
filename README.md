@@ -170,8 +170,6 @@
 
 ## Proxy
 
-- [v2rayNG](https://github.com/2dust/v2rayNG/releases)、[v2rayNG【Google play】](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
 - [Termux](https://f-droid.org/en/packages/com.termux/)
