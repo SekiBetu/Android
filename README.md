@@ -124,11 +124,9 @@
 - [pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 - [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 - [Discord](https://play.google.com/store/apps/details?id=com.discord)
-- [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 - [抖音](https://www.douyin.com/)
 - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
 - [Capcut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas)
-- ~~[Nekogram](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram)~~
 - ~~[Threema](https://play.google.com/store/apps/details?id=ch.threema.app)~~
 
 ## no group
@@ -160,7 +158,7 @@
 - [Vanced Manager](https://github.com/YTVanced/VancedManager/releases)
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
 - [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)
-- ~~[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)~~、[【LSPosed Module】秋风](https://xqe.lanzous.com/b00z6haji)
+- [【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)、[【LSPosed Module】秋风](https://xqe.lanzous.com/b00z6haji)
 - [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)、~~[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)~~
 - [Xposed Checker](https://www.coolapk.com/apk/190247)
 - ~~[Momo](https://www.coolapk.com/apk/io.github.vvb2060.mahoshojo)~~
