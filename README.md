@@ -142,7 +142,6 @@
 - [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 - [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、[Solid Explorer](https://www.ghpym.com/solidexplorer.html)
-- [Vanced Manager](https://github.com/YTVanced/VancedManager/releases)
 - DeepL翻译(PWA)
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
 - [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)
@@ -237,7 +236,3 @@
 - [电信营业厅](http://www.189.cn/client/)
 
 - [中国建设银行](https://www.coolapk.com/apk/com.chinamworld.main)
-
-## no group
-
-- [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)
