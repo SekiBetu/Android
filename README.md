@@ -16,6 +16,8 @@
 
 ## 谷歌框架
 
+- [支持GMS的机型](http://storage.googleapis.com/play_public/supported_devices.html)
+
 - [Google Services Framework](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
 
 - [Google Play services](https://www.apkmirror.com/apk/google-inc/google-play-services/)、[Google Play服务](https://play.google.com/store/apps/details?id=com.google.android.gms)
