@@ -126,7 +126,7 @@
 
 - [饿了么](https://www.ele.me/waimai)
 
-- [微博国际版](https://play.google.com/store/apps/details?id=com.weico.international)
+- [微博](https://c.weibo.cn/)
 
 ## 工具
 
@@ -153,7 +153,6 @@
 - [AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)
 - [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
 - [SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)
-- ~~[APKUpdater](https://github.com/rumboalla/apkupdater/releases)~~
 - ~~[Momo](https://www.coolapk.com/apk/io.github.vvb2060.mahoshojo)~~
 
 ## Proxy
@@ -238,3 +237,7 @@
 - [电信营业厅](http://www.189.cn/client/)
 
 - [中国建设银行](https://www.coolapk.com/apk/com.chinamworld.main)
+
+## no group
+
+- [钉钉](https://page.dingtalk.com/wow/dingtalk/act/download)
