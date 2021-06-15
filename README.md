@@ -119,6 +119,7 @@
 - [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 - [抖音](https://www.douyin.com/)
 - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
+- [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 - ~~[Capcut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas)~~
 - ~~[Threema](https://play.google.com/store/apps/details?id=ch.threema.app)~~
 
