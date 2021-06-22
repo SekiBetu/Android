@@ -146,11 +146,11 @@
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 - [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、[Solid Explorer](https://www.ghpym.com/solidexplorer.html)
 - DeepL翻译(PWA)
-- [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
+- [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、~~[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)~~
 - [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)
-- [【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
+- [【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)、~~[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)~~
 - [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)
-- [Xposed Checker](https://www.coolapk.com/apk/190247)
+- ~~[Xposed Checker](https://www.coolapk.com/apk/190247)~~
 - [AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)
 - [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
 - [SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)
