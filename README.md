@@ -158,6 +158,10 @@
 
 ## Proxy
 
+- [AnXray](https://github.com/XTLS/AnXray/releases)
+
+- [v2rayNG](https://github.com/2dust/v2rayNG/releases)
+
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
 - [Termux](https://f-droid.org/en/packages/com.termux/)
