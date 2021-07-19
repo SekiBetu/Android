@@ -55,7 +55,7 @@
 
 ## NSFW
 
-- [PicACG](https://www.picaacg.com)
+- [PicACG](https://www.picacomic.com)
 - [JavRocket](https://github.com/gentlemansolo/JavRocket/releases)
 - [EhViewer二次开发版](https://gitlab.com/NekoInverter/EhViewer)
 - [ZArchiver Pro](https://www.423down.com/6027.html)
