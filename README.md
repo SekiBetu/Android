@@ -134,20 +134,20 @@
 - [酷安](https://www.coolapk.com/apk/com.coolapk.market)
 - [Magisk](https://github.com/topjohnwu/Magisk)
 - [【Magisk Module】Riru](https://github.com/RikkaApps/Riru/releases)
-- [【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)
-- [【Magisk Module】MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)
-- [【Magisk Module】Riru-LocationReportEnabler](https://github.com/RikkaApps/Riru-LocationReportEnabler/releases)
+- ~~[【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)~~
+- ~~[【Magisk Module】MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)~~
+- ~~[【Magisk Module】Riru-LocationReportEnabler](https://github.com/RikkaApps/Riru-LocationReportEnabler/releases)~~
 - [【Magisk Module】一加赛博朋克2077开机动画](https://www.coolapk.com/feed/22920260)
 - [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
 - [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
 - [搜狗输入法](https://pinyin.cn/)
-- [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)
+- ~~[QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)~~
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 - [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
 - DeepL翻译(PWA)
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
 - ~~[【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)~~
-- [【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
+- ~~[【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)~~、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
 - [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)
 - ~~[AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)~~
 - ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
@@ -161,7 +161,7 @@
 
 - [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
 
-- [Termux](https://f-droid.org/en/packages/com.termux/)
+- ~~[Termux](https://f-droid.org/en/packages/com.termux/)~~
 
 - [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
 
@@ -175,14 +175,14 @@
 
 - 电子邮件
 - 文件管理
-- 应用商店
+- ~~应用商店~~
 - 相册
 - 设置
 - 主题壁纸
 - 手机管家
 - 小米云服务
 - 小米画报
-- 小米社区
+- ~~小米社区~~
 - 天气
 - 时钟
 - 日历
@@ -190,9 +190,9 @@
 - 录音机
 - 指南针
 - 扫一扫
-- USIM卡应用
-- 钱包
-- 浏览器
+- ~~USIM卡应用~~
+- ~~钱包~~
+- ~~浏览器~~
 
 ## no group
 
