@@ -103,8 +103,6 @@
 
 - [NGA玩家社区](https://app.nga.cn/)
 
-- [百度贴吧](http://c.tieba.baidu.com/c/s/download/pc)
-
 - [知乎](https://www.zhihu.com/app/)
 
 
@@ -116,7 +114,8 @@
 - [TwitCasting Viewer](https://play.google.com/store/apps/details?id=com.sidefeed.TCViewer)
 - [pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 - [Discord](https://play.google.com/store/apps/details?id=com.discord)
-- [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
+- ~~[TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)~~
+- TikTok(PWA)
 - [抖音](https://www.douyin.com/)
 - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
 - [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
@@ -144,15 +143,15 @@
 - [搜狗输入法](https://pinyin.cn/)
 - [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
-- [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、[Solid Explorer](https://www.ghpym.com/solidexplorer.html)
+- [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
 - DeepL翻译(PWA)
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
-- [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)
+- ~~[【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)~~
 - [【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
 - [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)
-- [AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)
-- [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
-- [SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)
+- ~~[AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)~~
+- ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
+- ~~[SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)~~
 - ~~[Xposed Checker](https://www.coolapk.com/apk/190247)~~
 - ~~[Momo](https://www.coolapk.com/apk/io.github.vvb2060.mahoshojo)~~
 
