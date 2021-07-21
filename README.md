@@ -56,10 +56,15 @@
 ## NSFW
 
 - [PicACG](https://www.picacomic.com)
+
 - [JavRocket](https://github.com/gentlemansolo/JavRocket/releases)
+
 - [EhViewer二次开发版](https://gitlab.com/NekoInverter/EhViewer)
+
 - [ZArchiver Pro](https://www.423down.com/6027.html)
+
 - [Tachiyomi](https://github.com/inorichi/tachiyomi)
+
 - [MX Player Pro](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
 
 ## 哔哩哔哩
@@ -109,18 +114,24 @@
 ## SNS
 
 - [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
+
 - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+
 - [Telegram](https://telegram.org/android)
+
 - [TwitCasting Viewer](https://play.google.com/store/apps/details?id=com.sidefeed.TCViewer)
+
 - [pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
+
 - [Discord](https://play.google.com/store/apps/details?id=com.discord)
-- ~~[TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)~~
-- TikTok(PWA)
+
+- [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
+
 - [抖音](https://www.douyin.com/)
+
 - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
+
 - [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
-- ~~[Capcut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas)~~
-- ~~[Threema](https://play.google.com/store/apps/details?id=ch.threema.app)~~
 
 ## no group
 
@@ -131,28 +142,49 @@
 ## 工具
 
 - [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
+
 - [酷安](https://www.coolapk.com/apk/com.coolapk.market)
+
 - [Magisk](https://github.com/topjohnwu/Magisk)
+
 - [【Magisk Module】Riru](https://github.com/RikkaApps/Riru/releases)
+
 - ~~[【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)~~
+
 - ~~[【Magisk Module】MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)~~
+
 - ~~[【Magisk Module】Riru-LocationReportEnabler](https://github.com/RikkaApps/Riru-LocationReportEnabler/releases)~~
+
 - [【Magisk Module】一加赛博朋克2077开机动画](https://www.coolapk.com/feed/22920260)
+
 - [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
+
 - [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
+
 - [搜狗输入法](https://pinyin.cn/)
-- ~~[QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_download?id=android)~~
+
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
+
 - [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
+
 - DeepL翻译(PWA)
+
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
-- ~~[【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)~~
-- ~~[【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)~~、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
+
+- [【LSPosed Module】应用伪装](http://www.coolapk.com/u/1195098)
+
+- [【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
+
 - [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)
+
 - ~~[AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)~~
+
 - ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
+
 - ~~[SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)~~
+
 - ~~[Xposed Checker](https://www.coolapk.com/apk/190247)~~
+
 - ~~[Momo](https://www.coolapk.com/apk/io.github.vvb2060.mahoshojo)~~
 
 ## Proxy
@@ -174,24 +206,41 @@
 ## 系统工具
 
 - 电子邮件
+
 - 文件管理
+
 - ~~应用商店~~
+
 - 相册
+
 - 设置
+
 - 主题壁纸
+
 - 手机管家
+
 - 小米云服务
-- 小米画报
+
 - ~~小米社区~~
+
 - 天气
+
 - 时钟
+
 - 日历
+
 - 屏幕录制
+
 - 录音机
+
 - 指南针
+
 - 扫一扫
+
 - ~~USIM卡应用~~
+
 - ~~钱包~~
+
 - ~~浏览器~~
 
 ## no group
@@ -205,11 +254,17 @@
 ## 出行
 
 - [高德地图](https://mobile.amap.com/)
+
 - [百度地图](https://map.baidu.com/zt/client/index/)
+
 - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+
 - [滴滴出行](https://www.didiglobal.com/download)
+
 - [交管12123](https://122.gov.cn/)
+
 - [浙江预约挂号](https://app.mi.com/details?id=com.zjrc.yygh)
+
 - [自如](http://hz.ziroom.com/)
 
 ## 网盘
