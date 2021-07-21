@@ -153,8 +153,6 @@
 
 - ~~[【Magisk Module】MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)~~
 
-- ~~[【Magisk Module】Riru-LocationReportEnabler](https://github.com/RikkaApps/Riru-LocationReportEnabler/releases)~~
-
 - [【Magisk Module】一加赛博朋克2077开机动画](https://www.coolapk.com/feed/22920260)
 
 - [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
@@ -175,17 +173,7 @@
 
 - [【LSPosed Module】秋风](https://xqe.lanzoui.com/b00z6haji)、[【LSPosed Module】XQuickEnergy_Crystal](https://t.me/mysl88)
 
-- [【LSPosed Module】UnblockMusicPro](https://github.com/nining377/UnblockMusicPro_Xposed/releases)
-
-- ~~[AppChecker](https://play.google.com/store/apps/details?id=com.kroegerama.appchecker)~~
-
-- ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
-
 - ~~[SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)~~
-
-- ~~[Xposed Checker](https://www.coolapk.com/apk/190247)~~
-
-- ~~[Momo](https://www.coolapk.com/apk/io.github.vvb2060.mahoshojo)~~
 
 ## Proxy
 
