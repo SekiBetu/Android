@@ -30,7 +30,7 @@
 
 `/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/`
 
-`/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/chatpic/`
+`/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/chatpic/`
 
 `/system/priv-app/`
 
