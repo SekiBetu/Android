@@ -165,9 +165,9 @@
 
 - [Microsoft Office](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
 
-- [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
-
 - DeepL翻译(PWA)
+
+- [MT管理器](https://bbs.binmt.cc/forum-2-1.html)、~~[Solid Explorer](https://www.ghpym.com/solidexplorer.html)~~
 
 - [【LSPosed Module】QX模块/微X模块](https://t.me/fk_zhang)、[【LSPosed Module】QNotified](https://github.com/ferredoxin/QNotified)
 
