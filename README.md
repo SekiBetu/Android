@@ -199,7 +199,7 @@
 
 ## no group
 
-- [QQ](https://im.qq.com/download/)
+- [QQ](https://im.qq.com/download)
 
 - [微信](https://weixin.qq.com/)
 
