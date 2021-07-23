@@ -249,8 +249,6 @@
 
 - [天翼云盘](https://cloud.189.cn/download_client.jsp)
 
-- [Teambition](https://www.teambition.com/apps)
-
 - [阿里云盘](https://www.aliyundrive.com/)
 
 ## 购物
